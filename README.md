@@ -59,7 +59,7 @@ A comprehensive web application designed to help corporations identify, plan, an
 
 1. **Clone the repository**
    ```bash
-   git clone [<repository-url>](https://github.com/njahromi/Monolith-to-Microservices)
+   git clone https://github.com/njahromi/Monolith-to-Microservices
    cd Monolith-to-Microservices
    ```
 
